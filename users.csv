@@ -1,0 +1,4 @@
+email,role,password_note
+admin@certiledger.test,admin,set via seed script
+student@certiledger.test,student,set via seed script
+verifier@certiledger.test,verifier,set via seed script
